@@ -6,8 +6,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Request information</title>
 </head>
-<Valve className="org.apache.catalina.valves.RemoteIpValve" internalProxies="172\.31\.11\.118"
-	remoteIpHeader="x-forwarded-for" proxiesHeader="x-forwarded-by" protocolHeader="x-forwarded-proto" />
 <body>
 	<h1>Request information:</h1>
 	<ul>
